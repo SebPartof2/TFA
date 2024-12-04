@@ -2,7 +2,7 @@
 	"custom_trains": {
 		"rail_345": {
 			"name": "TFA Class 101",
-			"color": "614199",
+			"color": "1F5EA0",
 			"base_train_type": "k_train",
 			"texture_id": "mtr:custom_directory/tfarail_345.png"
 		}
