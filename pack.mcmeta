@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "description": "TFA Custom Trains",
-        "pack_format": 9,
-    }
+  "pack": {
+    "pack_format": 9,
+    "description": "TFA Custom Pack"
+  }
 }
